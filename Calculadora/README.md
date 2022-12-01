@@ -1,3 +1,0 @@
-# Calculadora
-
-#### Calculadora de operações
